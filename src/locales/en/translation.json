@@ -1,0 +1,159 @@
+{
+    "z_title": "Four Houses in Northern Montenegro",
+    "z_subtitle": "A solid investment that generates stable returns up to 18%",
+    "z_info": "Hello! \n My name is Roman. I own private houses in Žabljak, Montenegro. This is my personal project — four houses on two plots located in the country’s most popular mountain resort. \n Now, I am offering this business to someone looking to invest in a stable and promising asset with real, proven profitability. ",
+    "of_title": "What’s on offer?",
+    "of_item1": "Two land plots, \n each with two houses \n Plot size: 400 m² each",
+    "of_title2": "House layout",
+    "of_item2": "Each house is 60 m²",
+    "of_title21": "first floor",
+    "of_item21": "living room \n kitchen \n bathroom with shower",
+    "of_title3": "second floor",
+    "of_item3": "two bedrooms with wood trim, cozy microclimate",
+    "Materials": {
+        "title": "materials",
+        "floor1": "<strong>Ground floor</strong>: brick and concrete,\n(durable and long-lasting)",
+        "floor2": "<strong>Second floor</strong>: wooden attic",
+        "heating": "<strong>Heating</strong>: eco-friendly and economical pellet stove",
+        "insulation": "Insulated with <strong>polystyrene</strong>"
+    },
+    "Profit": {
+        "title": "Real numbers, not promises.",
+        "intro": "These houses are already generating income — this is a ready-to-go business backed by statistics.",
+        "table": {
+            "header1": "Occupancy",
+            "header2": "rental rates per night",
+            "rows": {
+                "summer": {
+                    "period": "May – September",
+                    "occupancy": "75-80%",
+                    "price": "80–90€"
+                },
+                "october": {
+                    "period": "October",
+                    "occupancy": "60%",
+                    "price": "75€"
+                },
+                "nov_dec": {
+                    "period": "Nov – Dec",
+                    "occupancy": "30–40%",
+                    "price": "65€"
+                },
+                "holiday": {
+                    "period": "Dec 20 – Jan 15",
+                    "occupancy": "80–100%",
+                    "price": "100–130€"
+                },
+                "winter": {
+                    "period": "February – April",
+                    "occupancy": "50%",
+                    "price": "65–70€"
+                }
+            }
+        },
+        "grossTitle": "Rental income per house",
+        "gross": {
+            "summer": "May – October | 1500 - 1900 € monthly",
+            "winter": "December – March | 1000 - 1300 € monthly",
+            "holiday": "Dec 25 – Jan 14 | up to 1000 - 1300 € for 3 weeks"
+        },
+        "summaryTitle": "Total income & profits",
+        "summaryAmount": "12000 - 14000€",
+        "summaryDesc": "Annual gross income per house",
+        "fourHousesAmount": "48000 - 56000€",
+        "fourHousesDesc": "Annual gross income (4 houses)",
+        "expensesTitle": "Annual maintenance expenses",
+        "expensesAmount": "10000 - 15000€",
+        "expensesDesc": "includes property management,\ncleaning, utilities, and minor repairs",
+        "netProfitPercent": "13-18%",
+        "netProfitDesc": "Net profit after expenses\n(depending on management and rental strategy)"
+    },
+    "Income": {
+        "title": "Income growth potential",
+        "intro": "Current earnings are based on moderate activity.",
+        "businessGrowth": {
+            "header": "Profit can grow through:",
+            "items": {
+                "first": "Filling winter months",
+                "second": "Organizing package tours, partnerships with guides & travel agencies",
+                "third": "Adding services (banya, ski rentals, transfers)"
+            }
+        },
+        "additionalLand": {
+            "header": "There’s free adjacent land for development (e.g., a banya, restaurant, or 2 more houses)",
+            "items": {
+                "first": "banya",
+                "second": "restaurant",
+                "third": "or 2 more houses"
+            },
+            "benefit": ""
+        }
+    },
+    "ClientBaza": {
+        "title": "Client base & infrastructure",
+        "regularGuests": {
+            "header": "Regular guests ",
+            "countries": "from Germany, France, Belgium"
+        },
+        "tourists": {
+            "header": "Tourists ",
+            "countries": "from Serbia, Bosnia, Montenegro, UAE, and Russia"
+        },
+        "nearbyBanya": "Nearby: a traditional Russian banya built by craftsmen from Perm — a popular local attraction that draws guests",
+        "touristDestinations": "Close to major tourist destinations: Durmitor National Park, Zminje Lake, Ice Cave, Black Lake, and more.",
+        "ownership": "Houses and land are owned by a legal entity, all documents are ready for sale.",
+        "purchase": "purchase",
+        "purchasePrice": {
+            "full": "280.000€",
+            "partial": "140.000€"
+        },
+        "purchaseDetails": {
+            "full": "Entire project (2 plots, 4 houses)",
+            "partial": "Half project (1 plot, 2 houses)"
+        },
+        "paymentMethods": {
+            "title": "Payment options",
+            "euro": "Euro",
+            "usd": "USD",
+            "crypto": "Cryptocurrency"
+        },
+        "financing": "Financing available with property as collateral — assistance provided.",
+        "vnzTitle": "Montenegrin Residency Permit (VNZ)",
+        "vnzDetails": {
+            "first": "Each house qualifies for one residency permit (VNZ)",
+            "second": "Four houses = up to eight residency permits"
+        }
+    },
+    "Variant": {
+        "title": "Ideal option for relocating parents",
+        "peacefulArea": "Peaceful area, healthy climate",
+        "gardeningSpace": "Space for gardening",
+        "manageRentals": "Parents can manage rentals and earn income",
+        "safePlaceForGrandkids": "Safe environment for grandkids during holidays",
+        "pristineNature": "Pristine nature: mountains, forests, lakes",
+        "nearbyAttractions": "Nearby attractions include:",
+        "attractionsList": "Niš Waterfall, Savin Kuk, Škrka Lake, Zminje Lake, Ice Cave, Ðurđevića Tara Bridge, Tara River Canyon, Black Lake, Durmitor National Park"
+    },
+    "Footer": {
+        "investmentOrRetreat": "A reliable investment or a cozy family retreat",
+        "provenBusiness": "A proven business with steady income",
+        "solidRealEstate": "Solid real estate that appreciates in value",
+        "residencyBonus": "Residency as a bonus",
+        "lifeAndBusinessOpportunity": "A chance to live and work in one of Montenegro’s most beautiful places",
+        "contactsAndViewing": "Contact & viewing",
+        "personalViewingOrOnlineTour": "Personal viewing or online tour available",
+        "fullDocumentation": "Full documentation provided upon request"
+    },
+    "Form": {
+        "contactUs": "Contact Us",
+        "namePlaceholder": "Your Name",
+        "phonePlaceholder": "Phone",
+        "preferredMessenger": "Preferred Messenger:",
+        "submit": "Submit",
+        "nameError": "Enter your name",
+        "phoneError": "Enter your phone number",
+        "messengerError": "Select a messenger",
+        "thankYou": "Thank you!",
+        "contactSoon": "We will contact you soon."
+    }
+}

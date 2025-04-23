@@ -1,0 +1,33 @@
+@font-face {
+	font-family: 'Benzin-Semibold';
+	src: url('/fonts/benzin-semibold.eot'); /* IE 9 Compatibility Mode */
+	src: url('/fonts/benzin-semibold.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('/fonts/benzin-semibold.woff2') format('woff2'), /* Super Modern Browsers */
+		url('/fonts/benzin-semibold.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('/fonts/benzin-semibold.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('/fonts/benzin-semibold.svg#benzin-semibold') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+@font-face {
+	font-family: 'HelveticaNeueCyr-Light';
+	src: url('/fonts/helveticaneuecyr-light.eot'); /* IE 9 Compatibility Mode */
+	src: url('/fonts/helveticaneuecyr-light.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('/fonts/helveticaneuecyr-light.woff2') format('woff2'), /* Super Modern Browsers */
+		url('/fonts/helveticaneuecyr-light.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('/fonts/helveticaneuecyr-light.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+body {
+    background-color: #88806E;
+    min-height: 100vh;
+    font-family: 'HelveticaNeueCyr-Light';
+}
+
+
+.fontb {
+  font-family: 'Benzin-Semibold' !important;
+  white-space: pre-line;
+}
+.fonth {
+  font-weight: 100;
+	font-family: 'HelveticaNeueCyr-Light';
+  white-space: pre-line;
+}

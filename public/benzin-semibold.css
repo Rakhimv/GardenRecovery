@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Benzin-Semibold';
+	src: url('../fonts/benzin-semibold.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/benzin-semibold.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/benzin-semibold.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/benzin-semibold.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/benzin-semibold.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/benzin-semibold.svg#benzin-semibold') format('svg'); /* Chrome < 4, Legacy iOS */
+}
