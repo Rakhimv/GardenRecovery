@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":1,"title":"","author":"","subject":"","keywords":"","creator":"","producer":"iLovePDF","creationdate":"","moddate":"D:20250518204256Z","trapped":"","fileName":"copy-3.pdf","bounds":[[1237,2200]],"bookmarks":[],"thumbnailType":"jpg","pageType":"svg","pageLabels":[]};

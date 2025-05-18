@@ -1,33 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
 @font-face {
-	font-family: 'Benzin-Semibold';
-	src: url('/fonts/benzin-semibold.eot'); /* IE 9 Compatibility Mode */
-	src: url('/fonts/benzin-semibold.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
-		url('/fonts/benzin-semibold.woff2') format('woff2'), /* Super Modern Browsers */
-		url('/fonts/benzin-semibold.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
-		url('/fonts/benzin-semibold.ttf') format('truetype'), /* Safari, Android, iOS */
-		url('/fonts/benzin-semibold.svg#benzin-semibold') format('svg'); /* Chrome < 4, Legacy iOS */
+	font-family: 'AblationBold';
+	src: url('/fonts/ablationbold.eot');
+	src: url('/fonts/ablationbold.eot?#iefix') format('embedded-opentype'),
+		url('/fonts/ablationbold.woff2') format('woff2'),
+		url('/fonts/ablationbold.woff') format('woff'),
+		url('/fonts/ablationbold.ttf') format('truetype'),
+		url('/fonts/ablationbold.svg#ablationbold') format('svg');
 }
+
+.font-inter {
+	font-family: "Inter", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: normal;
+	font-style: normal;
+}
+
 @font-face {
-	font-family: 'HelveticaNeueCyr-Light';
-	src: url('/fonts/helveticaneuecyr-light.eot'); /* IE 9 Compatibility Mode */
-	src: url('/fonts/helveticaneuecyr-light.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
-		url('/fonts/helveticaneuecyr-light.woff2') format('woff2'), /* Super Modern Browsers */
-		url('/fonts/helveticaneuecyr-light.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
-		url('/fonts/helveticaneuecyr-light.ttf') format('truetype'), /* Safari, Android, iOS */
+	font-family: 'gotham';
+	src: url('/fonts/Gotham/gotham_book.otf') format('opentype');
+	font-weight: normal;
+	font-style: normal;
 }
+
+* {
+	font-family: 'gotham';
+	font-optical-sizing: auto;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.fabl {
+	font-family: 'AblationBold' !important;
+}
+
+.fog {
+	font-family: 'gotham' !important;
+}
+
+.textsys {
+	color: #8E9581 !important;
+	font-family: 'gotham' !important;
+	font-optical-sizing: auto;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.bgsys {
+	background-color: #8E9581 !important;
+}
+
 body {
-    background-color: #88806E;
-    min-height: 100vh;
-    font-family: 'HelveticaNeueCyr-Light';
+	background-color: #F0EBE6;
+	min-height: 100vh;
+	font-family: 'HelveticaNeueCyr-Light';
 }
 
 
 .fontb {
-  font-family: 'Benzin-Semibold' !important;
-  white-space: pre-line;
+	font-family: 'Benzin-Semibold' !important;
+	white-space: pre-line;
 }
+
 .fonth {
-  font-weight: 100;
+	font-weight: 100;
 	font-family: 'HelveticaNeueCyr-Light';
-  white-space: pre-line;
+	white-space: pre-line;
 }
