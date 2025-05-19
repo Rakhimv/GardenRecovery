@@ -29,6 +29,7 @@
 	font-optical-sizing: auto;
 	font-weight: normal;
 	font-style: normal;
+	scroll-behavior: smooth !important;
 }
 
 .fabl {
@@ -58,13 +59,7 @@ body {
 }
 
 
-.fontb {
-	font-family: 'Benzin-Semibold' !important;
-	white-space: pre-line;
-}
-
-.fonth {
-	font-weight: 100;
-	font-family: 'HelveticaNeueCyr-Light';
-	white-space: pre-line;
+input[type="date"]::-webkit-calendar-picker-indicator {
+	filter: invert(1);
+	opacity: 1;
 }

@@ -1,159 +1,311 @@
 {
-    "z_title": "Four Houses in Northern Montenegro",
-    "z_subtitle": "A solid investment that generates stable returns up to 18%",
-    "z_info": "Hello! \n My name is Roman. I own private houses in Žabljak, Montenegro. This is my personal project — four houses on two plots located in the country’s most popular mountain resort. \n Now, I am offering this business to someone looking to invest in a stable and promising asset with real, proven profitability. ",
-    "of_title": "What’s on offer?",
-    "of_item1": "Two land plots, \n each with two houses \n Plot size: 400 m² each",
-    "of_title2": "House layout",
-    "of_item2": "Each house is 60 m²",
-    "of_title21": "first floor",
-    "of_item21": "living room \n kitchen \n bathroom with shower",
-    "of_title3": "second floor",
-    "of_item3": "two bedrooms with wood trim, cozy microclimate",
-    "Materials": {
-        "title": "materials",
-        "floor1": "<strong>Ground floor</strong>: brick and concrete,\n(durable and long-lasting)",
-        "floor2": "<strong>Second floor</strong>: wooden attic",
-        "heating": "<strong>Heating</strong>: eco-friendly and economical pellet stove",
-        "insulation": "Insulated with <strong>polystyrene</strong>"
+  "z_title": "Medical Center for Holistic Wellness \n on the Adriatic Coast",
+  "z_title2": "A space where soul and body merge, undergoing a process of recovery and reset.",
+  "z_title3": "Garden Recovery — a beneficial stop on your journey. A place for finding or restoring inner peace, physical healing, and self-discovery.",
+  "z_title4": {
+    "title": "Programs based on the philosophy of balancing the four elements:",
+    "sub": "<strong>Water</strong> — cleansing and relaxation\n<strong>Earth</strong> — stability and grounding\n<strong>Fire</strong> — energy and transformation\n<strong>Air</strong> — lightness and freedom"
+  },
+  "box2": {
+    "t1": "HOLISTIC APPROACH",
+    "tx1": "Garden Recovery offers programs that encompass all aspects of human life — body, mind, and soul. The human body is a remarkable organism that requires care. By choosing a holistic approach to recovery and relaxation at Garden Recovery, you choose to truly love and care for your body.",
+    "t2": "INDIVIDUALIZED APPROACH",
+    "tx2": "The program is tailored individually, taking into account the guest’s characteristics and preferences.",
+    "t3": "RICHNESS OF NATURE",
+    "tx3": "Garden Recovery emphasizes the importance of wholeness through the rich natural environment of the Adriatic. Montenegro’s location is unique, combining mountains, sea, and forests in one place.",
+    "t4": "SILENCE AND TRANQUILITY",
+    "tx4": "Garden Recovery is located in a secluded place where the combination of the Adriatic Sea and mountain range ensures silence and peace for guests.",
+    "t5": "LUXURY ACCOMMODATION",
+    "tx5": "Accommodation in a five-star hotel with a sea view"
+  },
+  "box3": {
+    "title": "PROGRAMS",
+    "subtitle": "<strong>Light</strong> - basic detox program\n<strong>Standard</strong> - recovery through the '4 elements' program\n<strong>Personal plan</strong> - a program tailored to the guest’s needs and characteristics",
+    "txs": "First moments at Garden Recovery:",
+    "tx1": "Consultation with a doctor prior to arrival",
+    "tx2": "Filling out a questionnaire",
+    "tx3": "Choosing an existing program/Tailoring an individual program:",
+    "tx4": "Stay formats",
+    "tx5": "Accommodation\nLight / Standard / Personal plan",
+    "tx6": "Services without accommodation/with daily\nstay",
+    "tx7": "Programs from 10:00 to 18:00 or by sessions"
+  },
+  "box4": {
+    "title": "Four Elements Program",
+    "subtitle": "‘Water cleanses. Earth supports. Fire awakens energy.\nAir helps liberate.’",
+    "txs": "First moments at Garden Recovery:",
+    "tx1": "Consultation with a doctor prior to arrival",
+    "tx2": "Filling out a questionnaire",
+    "tx3": "Choosing an existing program/Tailoring an individual program:",
+    "tx4": "Stay formats",
+    "tx5": "Accommodation\nLight / Standard / Personal plan",
+    "tx6": "Services without accommodation/with daily\nstay",
+    "tx7": "Programs from 10:00 to 18:00 or by sessions",
+    "el1": {
+      "title": "Water",
+      "items": {
+        "item1": "Aqua aerobics",
+        "item2": "Endosphere therapy",
+        "item3": "Paraffin baths",
+        "item4": "Smoothies, teas, detox programs",
+        "item5": "Detox and weight loss",
+        "item6": "Digestive system support"
+      }
     },
-    "Profit": {
-        "title": "Real numbers, not promises.",
-        "intro": "These houses are already generating income — this is a ready-to-go business backed by statistics.",
-        "table": {
-            "header1": "Occupancy",
-            "header2": "rental rates per night",
-            "rows": {
-                "summer": {
-                    "period": "May – September",
-                    "occupancy": "75-80%",
-                    "price": "80–90€"
-                },
-                "october": {
-                    "period": "October",
-                    "occupancy": "60%",
-                    "price": "75€"
-                },
-                "nov_dec": {
-                    "period": "Nov – Dec",
-                    "occupancy": "30–40%",
-                    "price": "65€"
-                },
-                "holiday": {
-                    "period": "Dec 20 – Jan 15",
-                    "occupancy": "80–100%",
-                    "price": "100–130€"
-                },
-                "winter": {
-                    "period": "February – April",
-                    "occupancy": "50%",
-                    "price": "65–70€"
-                }
-            }
-        },
-        "grossTitle": "Rental income per house",
-        "gross": {
-            "summer": "May – October | 1500 - 1900 € monthly",
-            "winter": "December – March | 1000 - 1300 € monthly",
-            "holiday": "Dec 25 – Jan 14 | up to 1000 - 1300 € for 3 weeks"
-        },
-        "summaryTitle": "Total income & profits",
-        "summaryAmount": "12000 - 14000€",
-        "summaryDesc": "Annual gross income per house",
-        "fourHousesAmount": "48000 - 56000€",
-        "fourHousesDesc": "Annual gross income (4 houses)",
-        "expensesTitle": "Annual maintenance expenses",
-        "expensesAmount": "10000 - 15000€",
-        "expensesDesc": "includes property management,\ncleaning, utilities, and minor repairs",
-        "netProfitPercent": "13-18%",
-        "netProfitDesc": "Net profit after expenses\n(depending on management and rental strategy)"
+    "el2": {
+      "title": "Earth",
+      "items": {
+        "item1": "Wraps (mud, chocolate)",
+        "item2": "Nutrition counseling",
+        "item3": "Grounding psychological practices",
+        "item4": "Therapeutic exercise (LFK)"
+      }
     },
-    "Income": {
-        "title": "Income growth potential",
-        "intro": "Current earnings are based on moderate activity.",
-        "businessGrowth": {
-            "header": "Profit can grow through:",
-            "items": {
-                "first": "Filling winter months",
-                "second": "Organizing package tours, partnerships with guides & travel agencies",
-                "third": "Adding services (banya, ski rentals, transfers)"
-            }
-        },
-        "additionalLand": {
-            "header": "There’s free adjacent land for development (e.g., a banya, restaurant, or 2 more houses)",
-            "items": {
-                "first": "banya",
-                "second": "restaurant",
-                "third": "or 2 more houses"
-            },
-            "benefit": ""
-        }
+    "el3": {
+      "title": "Fire",
+      "items": {
+        "item1": "Therapeutic exercise (LFK)",
+        "item2": "Massages to stimulate circulation",
+        "item3": "Wraps (mud, chocolate)",
+        "item4": "Vitamin IV drips",
+        "item5": ""
+      }
     },
-    "ClientBaza": {
-        "title": "Client base & infrastructure",
-        "regularGuests": {
-            "header": "Regular guests ",
-            "countries": "from Germany, France, Belgium"
-        },
-        "tourists": {
-            "header": "Tourists ",
-            "countries": "from Serbia, Bosnia, Montenegro, UAE, and Russia"
-        },
-        "nearbyBanya": "Nearby: a traditional Russian banya built by craftsmen from Perm — a popular local attraction that draws guests",
-        "touristDestinations": "Close to major tourist destinations: Durmitor National Park, Zminje Lake, Ice Cave, Black Lake, and more.",
-        "ownership": "Houses and land are owned by a legal entity, all documents are ready for sale.",
-        "purchase": "purchase",
-        "purchasePrice": {
-            "full": "280.000€",
-            "partial": "140.000€"
-        },
-        "purchaseDetails": {
-            "full": "Entire project (2 plots, 4 houses)",
-            "partial": "Half project (1 plot, 2 houses)"
-        },
-        "paymentMethods": {
-            "title": "Payment options",
-            "euro": "Euro",
-            "usd": "USD",
-            "crypto": "Cryptocurrency"
-        },
-        "financing": "Financing available with property as collateral — assistance provided.",
-        "vnzTitle": "Montenegrin Residency Permit (VNZ)",
-        "vnzDetails": {
-            "first": "Each house qualifies for one residency permit (VNZ)",
-            "second": "Four houses = up to eight residency permits"
-        }
-    },
-    "Variant": {
-        "title": "Ideal option for relocating parents",
-        "peacefulArea": "Peaceful area, healthy climate",
-        "gardeningSpace": "Space for gardening",
-        "manageRentals": "Parents can manage rentals and earn income",
-        "safePlaceForGrandkids": "Safe environment for grandkids during holidays",
-        "pristineNature": "Pristine nature: mountains, forests, lakes",
-        "nearbyAttractions": "Nearby attractions include:",
-        "attractionsList": "Niš Waterfall, Savin Kuk, Škrka Lake, Zminje Lake, Ice Cave, Ðurđevića Tara Bridge, Tara River Canyon, Black Lake, Durmitor National Park"
-    },
-    "Footer": {
-        "investmentOrRetreat": "A reliable investment or a cozy family retreat",
-        "provenBusiness": "A proven business with steady income",
-        "solidRealEstate": "Solid real estate that appreciates in value",
-        "residencyBonus": "Residency as a bonus",
-        "lifeAndBusinessOpportunity": "A chance to live and work in one of Montenegro’s most beautiful places",
-        "contactsAndViewing": "Contact & viewing",
-        "personalViewingOrOnlineTour": "Personal viewing or online tour available",
-        "fullDocumentation": "Full documentation provided upon request"
-    },
-    "Form": {
-        "contactUs": "Contact Us",
-        "namePlaceholder": "Your Name",
-        "phonePlaceholder": "Phone",
-        "preferredMessenger": "Preferred Messenger:",
-        "submit": "Submit",
-        "nameError": "Enter your name",
-        "phoneError": "Enter your phone number",
-        "messengerError": "Select a messenger",
-        "thankYou": "Thank you!",
-        "contactSoon": "We will contact you soon."
+    "el4": {
+      "title": "Air",
+      "items": {
+        "item1": "Breathing practices",
+        "item2": "Meditations",
+        "item3": "Inhalations",
+        "item4": "Aromatherapy",
+        "item5": "Psychological support"
+      }
     }
+  },
+  "box5": {
+    "section1": {
+      "header": "Medical Services",
+      "list1": {
+        "title": "Standard Screening:",
+        "items": {
+          "item1": "Complete blood count",
+          "item2": "Blood biochemistry",
+          "item3": "Electrocardiogram (ECG)",
+          "item4": "Blood pressure measurement"
+        }
+      },
+      "list2": {
+        "title": "Extended Screening:",
+        "items": {
+          "item1": "Standard package + individual tests (as recommended by the doctor)"
+        }
+      },
+      "list3": {
+        "title": "Services:",
+        "items": {
+          "item1": "Doctor consultation and questionnaire completion",
+          "item2": "Possibility of ultrasound examination",
+          "item3": "Detox programs with IV drips: Standard set (10 types of drips)",
+          "item4": "Individual doctor prescriptions",
+          "item5": "Vitamin complexes and supplements",
+          "item6": "Psychiatric and psychological support (as needed: consultations with a psychiatrist, addiction specialist, psychotherapist)"
+        }
+      }
+    },
+    "section2": {
+      "header": "Wellness Procedures",
+      "list1": {
+        "items": {
+          "item1": "Physiotherapy (hardware-based, requiring minimal space and investment)",
+          "item2": "Magnetic therapy",
+          "item3": "Paraffin baths",
+          "item4": "Massages (various types)",
+          "item5": "Aqua aerobics",
+          "item6": "Apnea therapy",
+          "item7": "Inhalations",
+          "item8": "Wraps (mud, chocolate)",
+          "item9": "Therapeutic exercise (LFK) with an instructor",
+          "item10": "Dietitian/nutritionist — meal planning and support"
+        }
+      }
+    }
+  },
+  "box6": {
+    "title": "Garden Recovery Team",
+    "items": {
+      "item1": {
+        "name": "Roman Konevichev",
+        "description": "Head of the Garden Recovery Center."
+      },
+      "item2": {
+        "name": "Denis Makarovsky",
+        "description": "Clinical psychologist, PhD, head of wellness programs. Certified specialist with international experience. Expert in psychotherapy, psychosomatics, rehabilitation, and burnout therapy."
+      },
+      "item3": {
+        "name": "Valeria Bulgakova",
+        "description": "Consulting psychologist. Conducts individual sessions, helping guests find inner resources and overcome crisis states."
+      },
+      "item4": {
+        "name": "Elena Egorova",
+        "description": "Family and individual psychologist. Helps restore harmony in relationships, reduces anxiety and emotional tension."
+      }
+    }
+  },
+  "box7": {
+    "title": "Accommodation",
+    "items": {
+      "item1": "Premium 5* accommodation",
+      "item2": "Single and double suites with sea views",
+      "item3": "Combination of the Adriatic Sea and mountain range",
+      "item4": "Rooms equipped with weighted blankets and orthopedic pillows",
+      "item5": "Yandex Alice with personalized meditation program selection"
+    }
+  },
+  "box8": {
+    "title": "Single Suite",
+    "sub": "Room for one person with a spacious\nbed, kitchen, relaxation area, bathroom, and\nbalcony with a sea view"
+  },
+  "box9": {
+    "title": "Double Suite",
+    "sub": "Room for two people with a separate bedroom, relaxation\narea, kitchen, bathroom, and terrace with a sea view"
+  },
+  "box10": {
+    "title": "Nutrition",
+    "sub": "Selection of only fresh, high-quality products and a balanced menu",
+    "items": {
+      "item1": "Healthy breakfasts",
+      "item2": "Selection of vegetable salads (5–7 types)",
+      "item3": "Smoothies, cocktails, freshly squeezed juices",
+      "item4": "Fruit salads",
+      "item5": "Healthy teas",
+      "item6": "Option to order food delivery from a restaurant"
+    }
+  },
+  "footer": {
+    "sub": "Want to recover and rest in a way that benefits your body?\nIt’s time to press the ‘SOS’ button and move to a place of true, high-quality recovery and rejuvenation.\nWelcome to Garden Recovery — a space where soul and body merge, undergoing a process of recovery and reset."
+  },
+  "Form": {
+    "title": "Booking Form",
+    "checkInDate": "Check-in Date",
+    "checkInDateError": "Select check-in date",
+    "checkOutDate": "Check-out Date",
+    "checkOutDateError": "Select check-out date",
+    "fullName": "Full Name",
+    "fullNameError": "Enter full name",
+    "fullNamePlaceholder": "John Doe",
+    "passportNumber": "Passport Number",
+    "passportNumberError": "Enter passport number",
+    "passportNumberPlaceholder": "1234 567890",
+    "allergies": "Allergies",
+    "allergiesPlaceholder": "Specify allergies, if any",
+    "chronicConditions": "Chronic Conditions",
+    "chronicConditionsPlaceholder": "Specify chronic conditions, if any",
+    "desiredProcedures": "Desired Procedures",
+    "referralSource": "How did you hear about us",
+    "referralSourcePlaceholder": "Select an option",
+    "otherReferral": "Specify referral source",
+    "otherReferralPlaceholder": "Describe the source",
+    "comments": "Comments",
+    "commentsPlaceholder": "Your wishes or comments",
+    "submt": "Submit",
+    "thank": "Thank you for your application!",
+    "soon": "We will contact you shortly",
+    "referralSources": {
+      "source1": "Internet",
+      "source2": "Social media",
+      "source3": "Recommendation from friends",
+      "source4": "Advertisement",
+      "source5": "Other"
+    },
+    "procedureCategories": {
+      "category1": {
+        "name": "Psychiatrist / Psychologist Office",
+        "procedures": {
+          "proc1": "Initial psychiatric and psychological diagnostics",
+          "proc2": "Individual psychotherapy",
+          "proc3": "Psychiatric consultation and therapy prescription",
+          "proc4": "Support for anxiety disorders, depression, burnout",
+          "proc5": "Consultations on addiction and post-withdrawal syndrome",
+          "proc6": "Psychological support during detox",
+          "proc7": "Family counseling",
+          "proc8": "Meditative and breathing practices",
+          "proc9": "Psychoeducation: groups, lectures, working with beliefs"
+        }
+      },
+      "category2": {
+        "name": "Infusion Therapy (IV drips) / Detox Program",
+        "procedures": {
+          "proc1": "Vitamin IV drips (B-complex, C, magnesium, zinc, amino acids)",
+          "proc2": "Antioxidant therapy (glutathione, alpha-lipoic acid)",
+          "proc3": "Hepatoprotective IV drips (liver support)",
+          "proc4": "IV drips for hangover relief",
+          "proc5": "IV drips for recovery from stress and fatigue",
+          "proc6": "Infusion therapy for deficiencies and electrolyte imbalances",
+          "proc7": "Microelement cocktails (Se, Mn, Cu, etc.)",
+          "proc8": "Personalized detox protocols (based on tests and indications)",
+          "proc9": "Infusions for immune support",
+          "proc10": "Therapy courses according to the doctor’s plan"
+        }
+      },
+      "category3": {
+        "name": "Therapist Office",
+        "procedures": {
+          "proc1": "Initial medical examination",
+          "proc2": "Medical history collection, preliminary diagnosis",
+          "proc3": "Interpretation of laboratory and instrumental data",
+          "proc4": "Prescribing basic therapy",
+          "proc5": "Dynamic monitoring during the stay",
+          "proc6": "Selection of nutritional and vitamin support",
+          "proc7": "Consultations on sleep, nutrition, and well-being",
+          "proc8": "Examinations within detox and rehabilitation programs",
+          "proc9": "Issuing recommendations and individual wellness plans"
+        }
+      },
+      "category4": {
+        "name": "Cosmetologist Office",
+        "procedures": {
+          "proc1": "Biorevitalization and mesotherapy (face, neck, scalp, body)",
+          "proc2": "Botulinum therapy (Botox, Dysport)",
+          "proc3": "Contour plastics (hyaluronic acid-based fillers)",
+          "proc4": "Lipolytics and body contouring procedures",
+          "proc5": "Peels (mechanical, chemical, enzymatic)",
+          "proc6": "Skincare procedures based on skin type",
+          "proc7": "Hardware procedures: microcurrents, ultrasound, Darsonval, etc.",
+          "proc8": "Selection of home skincare and follow-up",
+          "proc9": "Cosmetology as part of an anti-stress program",
+          "proc10": "Plasma therapy (as indicated)"
+        }
+      },
+      "category5": {
+        "name": "Physiotherapy, Massage, and Therapeutic Exercise Office",
+        "procedures": {
+          "proc1": "Classic, relaxing, and lymphatic drainage massage",
+          "proc2": "Neck-shoulder, back, and foot massage",
+          "proc3": "Anti-stress and energy massages",
+          "proc4": "Hardware physiotherapy (magnetic therapy, UHF, laser therapy)",
+          "proc5": "Therapeutic exercise (LFK) — individual and group sessions",
+          "proc6": "Yoga therapy and breathing practices",
+          "proc7": "Recovery from stress and injuries (rehabilitologist)",
+          "proc8": "Programs for the musculoskeletal system",
+          "proc9": "Restorative therapy courses as prescribed by the doctor"
+        }
+      },
+      "category6": {
+        "name": "Dietitian / Nutritionist Office",
+        "procedures": {
+          "proc1": "Initial consultation and history collection",
+          "proc2": "Analysis of dietary habits and lifestyle",
+          "proc3": "Interpretation of lab tests (deficiencies, hormones, digestive system)",
+          "proc4": "Development of a personalized nutrition plan",
+          "proc5": "Anti-aging, anti-inflammatory, and detox nutrition protocols",
+          "proc6": "Selection of nutraceuticals (vitamins, minerals, supplements)",
+          "proc7": "Weight management programs (loss, gain, stabilization)",
+          "proc8": "Nutrition for anxiety, fatigue, hormonal imbalances",
+          "proc9": "Support for quitting sugar, alcohol, overeating",
+          "proc10": "Support during IV drips and recovery",
+          "proc11": "Online monitoring and support between visits"
+        }
+      }
+    }
+  }
 }

@@ -30,34 +30,50 @@ const Box3 = () => {
       </p>
 
 
-      <p className="mt-[10%] textsys text-black! max-w-[450px] text-center font-bold! text-[11px]">
+      <p
+        data-aos="zoom-in"
+        className="mt-[10%] textsys text-black! max-w-[450px] text-center font-bold! text-[11px]">
         {t('box3.txs')}
       </p>
-      <p className="mt-[10%] textsys text-black! max-w-[450px] text-center text-[11px]">
+      <p
+        data-aos="fade-right"
+        className="mt-[10%] textsys text-black! max-w-[450px] text-center text-[11px]">
         {t('box3.tx1')}
       </p>
-      <p className="mt-[10%] textsys text-black! max-w-[450px] text-center text-[11px]">
+      <p 
+        data-aos="fade-left"
+      className="mt-[10%] textsys text-black! max-w-[450px] text-center text-[11px]">
         {t('box3.tx2')}
       </p>
-      <p className="mt-[15%] textsys text-black! max-w-[450px] text-center text-[11px]">
+      <p
+        data-aos="fade-right"
+        className="mt-[15%] textsys text-black! max-w-[450px] text-center text-[11px]">
         {t('box3.tx3')}
       </p>
 
 
-      <p className="fabl text-black! max-w-[450px] text-center text-[13px] absolute bottom-[35%]">
+      <p
+        data-aos="zoom-in"
+        className="fabl text-black! max-w-[450px] text-center text-[13px] absolute bottom-[35%]">
         {t('box3.tx4')}
       </p>
 
 
-      <p className="textsys whitespace-pre-line text-black! w-max text-center text-[10px] absolute bottom-[18%] left-[5%]">
+      <p
+        data-aos="fade-right"
+        className="textsys whitespace-pre-line text-black! w-max text-center text-[10px] absolute bottom-[18%] left-[5%]">
         {t('box3.tx5')}
       </p>
 
 
-      <p className="textsys whitespace-pre-line text-black! w-max text-center text-[10px] absolute bottom-[8%] right-[5%]">
+      <p
+        data-aos="fade-left"
+        className="textsys whitespace-pre-line text-black! w-max text-center text-[10px] absolute bottom-[8%] right-[5%]">
         {t('box3.tx6')}
       </p>
-      <p className="textsys italic! whitespace-pre-line text-black! w-max text-center text-[10px] absolute bottom-[5%] right-[5%]">
+      <p
+        data-aos="fade-left"
+        className="textsys italic! whitespace-pre-line text-black! w-max text-center text-[10px] absolute bottom-[5%] right-[5%]">
         {t('box3.tx7')}
       </p>
 

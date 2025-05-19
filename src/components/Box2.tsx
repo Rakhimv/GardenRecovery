@@ -23,13 +23,14 @@ const Box2 = () => {
                 width: '100%',
             }}
 
-            className="p-[20px]">
+            className="p-[20px] w-full">
 
 
 
             <div className="mt-[50px]"></div>
             {sections.map((section, index) => (
                 <div
+                    data-aos={index%2===0 ? "zoom-in-right" : "zoom-in-left"}
                     key={index}
                     className="flex w-full mt-12 flex-col items-center"
                 >
@@ -44,7 +45,7 @@ const Box2 = () => {
             ))}
 
 
-<div className="mt-[100px]"></div>
+            <div className="mt-[100px]"></div>
 
 
         </div>

@@ -16,11 +16,13 @@ const Box4 = () => {
             }}
         >
 
-            <p className="mt-[10px] fabl max-w-[450px] text-center text-[20px] text-white!">
+            <p
+                data-aos="fade-up"
+                className="mt-[10px] fabl max-w-[450px] text-center text-[20px] text-[#f0ebe6]!">
                 {t('box4.title')}
             </p>
 
-            <p className="whitespace-pre-line textsys text-right text-white! w-full text-[10px] fonth mt-[40px] font-normal!">
+            <p className="whitespace-pre-line textsys text-right text-[#f0ebe6]! w-full text-[10px] fonth mt-[40px] font-normal!">
                 <Trans
                     i18nKey="box4.subtitle"
                     components={{ strong: <strong className="font-bold!" /> }}
@@ -29,7 +31,7 @@ const Box4 = () => {
 
 
             <div className='w-full mt-[80px] flex justify-between items-center'>
-                <div>
+                <div data-aos="zoom-in-right">
                     <h2 className='fabl text-[12px] mb-[10px]'>{t('box4.el1.title')}</h2>
                     <ul className='list-disc pl-5'>
                         {Array(6).fill('').map((_, index) => (
@@ -37,13 +39,13 @@ const Box4 = () => {
                         ))}
                     </ul>
                 </div>
-                <img src='/img/41.png' className='w-[30%]' />
+                <img data-aos="flip-right" src='/img/41.png' className='w-[30%]' />
             </div>
 
 
             <div className='w-full mt-[20px] flex justify-start gap-[20px] items-center'>
-                <img src='/img/42.png' className='w-[30%]' />
-                <div>
+                <img data-aos="flip-right" src='/img/42.png' className='w-[30%]' />
+                <div data-aos="zoom-in-left">
                     <h2 className='fabl text-[12px] mb-[10px]'>{t('box4.el2.title')}</h2>
                     <ul className='list-disc pl-5'>
                         {Array(4).fill('').map((_, index) => (
@@ -55,7 +57,7 @@ const Box4 = () => {
             </div>
 
             <div className='w-full mt-[20px] flex justify-between items-center'>
-                <div>
+                <div data-aos="zoom-in-right">
                     <h2 className='fabl text-[12px] mb-[10px]'>{t('box4.el3.title')}</h2>
                     <ul className='list-disc pl-5'>
                         {Array(4).fill('').map((_, index) => (
@@ -63,13 +65,13 @@ const Box4 = () => {
                         ))}
                     </ul>
                 </div>
-                <img src='/img/43.png' className='w-[30%]' />
+                <img data-aos="flip-right" src='/img/43.png' className='w-[30%]' />
             </div>
 
 
             <div className='w-full mt-[20px] mb-[50px] flex justify-start gap-[20px] items-center'>
-                <img src='/img/44.png' className='w-[30%]' />
-                <div>
+                <img data-aos="flip-right" src='/img/44.png' className='w-[30%]' />
+                <div data-aos="zoom-in-left">
                     <h2 className='fabl text-[12px] mb-[10px]'>{t('box4.el4.title')}</h2>
                     <ul className='list-disc pl-5'>
                         {Array(5).fill('').map((_, index) => (

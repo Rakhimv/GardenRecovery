@@ -46,7 +46,9 @@ const Box1 = () => {
                 </div>
 
 
-                <div className='flex flex-col w-full p-[7%] pb-[0px]'>
+                <div
+                    data-aos="fade-up"
+                    className='flex  flex-col w-full p-[7%] pb-[0px]'>
 
                     <div className='flex w-full justify-center items-center'>
                         <img src='/img/title.svg' />
@@ -61,7 +63,8 @@ const Box1 = () => {
 
 
                 <div
-                    // data-aos="fade-up"
+                    data-aos="fade-up"
+                    data-aos-delay="100"
                     className='flex w-full flex-col items-center'>
                     <h1 className="mt-[10px] textsys max-w-[400px] text-center text-[15px]">
                         {t('z_title')}
@@ -72,7 +75,8 @@ const Box1 = () => {
 
 
                 <div
-                    // data-aos="fade-up"
+                    data-aos="fade-up"
+                    data-aos-delay="150"
                     className='flex w-full mt-[15px] flex-col items-center'>
                     <p className="mt-[10px] textsys max-w-[450px] text-center text-[15px]">
                         {t('z_title2')}
@@ -83,7 +87,8 @@ const Box1 = () => {
 
 
                 <div
-                    // data-aos="fade-up"
+                    data-aos="fade-up"
+                    data-aos-delay="200"
                     className='flex w-full mt-[15px] flex-col items-center'>
                     <p className="mt-[10px] textsys max-w-[450px] text-center text-[15px]">
                         {t('z_title3')}
@@ -92,12 +97,18 @@ const Box1 = () => {
                     <div className='w-[100px] mt-[15px] h-[1px] bgsys'></div>
                 </div>
 
-                <p className="mt-[10px] textsys max-w-[500px] text-center text-[15px]">
+                <p
+                    data-aos-delay="250"
+                    data-aos="fade-up"
+                    className="mt-[10px] textsys max-w-[500px] text-center text-[15px]">
                     {t('z_title4.title')}
                 </p>
 
 
-                <p className="whitespace-pre-line textsys max-w-[300px] text-[15px] text-center text-white fonth mt-[20px] font-normal!">
+                <p
+                    data-aos-delay="300"
+                    data-aos="fade-up"
+                    className="whitespace-pre-line textsys max-w-[300px] text-[15px] text-center text-[#f0ebe6] fonth mt-[20px] font-normal!">
                     <Trans
                         i18nKey="z_title4.sub"
                         components={{ strong: <strong className="font-bold!" /> }}
@@ -111,7 +122,10 @@ const Box1 = () => {
 
 
             </div>
-            <img src='/img/0.png' className='w-full' />
+            <img
+                data-aos-delay="400"
+                data-aos="zoom-in"
+                src='/img/0.png' className='w-full' />
         </>
     )
 }
@@ -131,10 +145,10 @@ export default Box1
 // <div className="p-4">
 // <h1 className="text-2xl font-bold">{t('welcome')}</h1>
 // <div className="mt-4 flex gap-2">
-//     <button onClick={() => changeLanguage('en')} className="px-4 py-2 bg-blue-500 text-white rounded">
+//     <button onClick={() => changeLanguage('en')} className="px-4 py-2 bg-blue-500 text-[#f0ebe6] rounded">
 //         EN
 //     </button>
-//     <button onClick={() => changeLanguage('ru')} className="px-4 py-2 bg-green-500 text-white rounded">
+//     <button onClick={() => changeLanguage('ru')} className="px-4 py-2 bg-green-500 text-[#f0ebe6] rounded">
 //         RU
 //     </button>
 // </div>

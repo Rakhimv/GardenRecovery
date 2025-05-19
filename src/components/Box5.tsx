@@ -16,12 +16,19 @@ const Box5 = () => {
             }}
         >
 
-            <p className="mt-[10px] fabl max-w-[450px] text-black! text-center text-[20px]">
+            <p
+                data-aos="fade-up"
+                className="mt-[10px] fabl max-w-[450px] text-black! text-center text-[20px]">
                 {t('box5.section1.header')}
 
             </p>
 
-            <p className="whitespace-pre-line textsys text-left text-black! w-full text-[12px] fonth mt-[40px] font-normal!">
+            <p
+
+                data-aos="fade-up"
+                data-aos-delay="100"
+
+                className="whitespace-pre-line textsys text-left text-black! w-full text-[12px] fonth mt-[40px] font-normal!">
                 <div>
                     <h2 className='textsys text-black! font-bold! text-[14px] mb-[10px]'>{t('box5.section1.list1.title')}</h2>
                     <ul className='list-disc pl-5'>
@@ -36,7 +43,11 @@ const Box5 = () => {
 
 
 
-            <p className="whitespace-pre-line textsys text-left text-black! w-full text-[12px] fonth mt-[30px] font-normal!">
+            <p
+
+                data-aos="fade-up"
+                data-aos-delay="200"
+                className="whitespace-pre-line textsys text-left text-black! w-full text-[12px] fonth mt-[30px] font-normal!">
                 <div>
                     <h2 className='textsys text-black! font-bold! text-[14px] mb-[10px]'>{t('box5.section1.list2.title')}</h2>
                     <ul className='list-disc pl-5'>
@@ -47,7 +58,11 @@ const Box5 = () => {
                 </div>
             </p>
 
-            <p className="whitespace-pre-line textsys text-left text-black! w-full text-[12px] fonth mt-[30px] font-normal!">
+            <p
+
+                data-aos="fade-up"
+                data-aos-delay="300"
+                className="whitespace-pre-line textsys text-left text-black! w-full text-[12px] fonth mt-[30px] font-normal!">
                 <div>
                     <h2 className='textsys text-black! font-bold! text-[14px] mb-[10px]'>{t('box5.section1.list3.title')}</h2>
                     <ul className='list-disc pl-5'>
@@ -60,12 +75,17 @@ const Box5 = () => {
 
 
 
-            <p className="mt-[50px] fabl max-w-[450px] text-black! text-center text-[15px]">
+            <p
+                data-aos="fade-up"
+                className="mt-[50px] fabl max-w-[450px] text-black! text-center text-[15px]">
                 {t('box5.section2.header')}
 
             </p>
 
-            <p className="whitespace-pre-line textsys text-left text-black! w-full text-[12px] fonth mt-[30px] font-normal!">
+            <p
+                data-aos-delay="100"
+                data-aos="fade-up"
+                className="whitespace-pre-line textsys text-left text-black! w-full text-[12px] fonth mt-[30px] font-normal!">
                 <div>
                     <ul className='list-disc pl-5'>
                         {Array(10).fill('').map((_, index) => (
